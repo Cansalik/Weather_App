@@ -36,20 +36,22 @@ class GlobalController extends GetxController
     bool isServiceEnabled;
     LocationPermission locationPermission;
     isServiceEnabled = await Geolocator.isLocationServiceEnabled();
-    //Retrun if the service is not
-    if (!isServiceEnabled) {
-      return Future.error("Location not enabled");
-    }
+
 
     // Status of permission
     locationPermission = await Geolocator.checkPermission();
 
-    if (locationPermission == LocationPermission.deniedForever) {
+    if (locationPermission == LocationPermission.deniedForever)
+    {
       return Future.error("Location permission are denied forever");
-    } else if (locationPermission == LocationPermission.denied) {
+    }
+    else if (locationPermission == LocationPermission.denied)
+    {
       // request permission
       locationPermission = await Geolocator.requestPermission();
-      if (locationPermission == LocationPermission.denied) {
+
+      if (locationPermission == LocationPermission.denied)
+      {
         return Future.error("Location permission is denied");
       }
     }
