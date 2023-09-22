@@ -16,5 +16,8 @@ We also provide automatic updates. Weather forecasts are constantly changing, so
 
 This app can be useful for anyone who wants to keep track of the weather. It can be a great help especially for travelers, athletes and those who work in weather-dependent jobs.
 
-![Screenshot_20230922-120035](https://github.com/Cansalik/Weather_App/assets/84234525/d0ba08a9-155b-4bc3-831f-f0693230673f)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Screenshot_20230922-120026](https://github.com/Cansalik/Weather_App/assets/84234525/4369f1e0-2779-4a33-82b4-7d33b01ee8fb)
+ ![Screenshot_20230922-120026](https://github.com/Cansalik/Weather_App/assets/84234525/4369f1e0-2779-4a33-82b4-7d33b01ee8fb)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Screenshot_20230922-120035](https://github.com/Cansalik/Weather_App/assets/84234525/d0ba08a9-155b-4bc3-831f-f0693230673f) 
+ 
+ 
 
